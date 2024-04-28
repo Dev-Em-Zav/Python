@@ -1,0 +1,33 @@
+﻿SUPERFICIE,POBLACION,DENSIDAD (Hab/km2),NOMBRE,SUPERFICIE KM2,SUPERFICIE %,ESTIMACION 2020,2015 (HAB/KM2),CAPITAL,POBLACION 2020,POSICION POBLACIÓN,ORDEN
+01,11,30,Chihuahua,247 455,"12,6","12,6",3 741 869,14,Chihuahua,925 762,05
+02,18,29,Sonora,179 355,"9,2","9,2",2 944 840,16,Hermosillo,855 563,09
+03,15,27,Coahuila,151 562,"7,7","7,7",3 146 771,19,Saltillo,864 431,10
+04,24,31,Durango,123 317,"6,3","6,3",1 832 650,14,Victoria de Durango,616 068,16
+05,10,23,Oaxaca,93 757,"4,8","4,8",4 132 148,42,Oaxaca de Juárez,258 913,24
+06,13,22,Tamaulipas,80 249,"4,1","4,1",3 527 735,43,Ciudad Victoria,332 100,22
+07,03,12,Jalisco,78 588,"4,0","4,0",8 348 151,100,Guadalajara,1 385 621,02
+08,25,26,Zacatecas,75 284,"3,8","3,8",1 622 138,21,Zacatecas,138 444,31
+09,31,32,Baja California Sur,73 909,"3,8","3,8",798 447,10,La Paz,250 141,26
+10,07,16,Chiapas,73 311,"3,7","3,7",5 543 828,71,Tuxtla Gutiérrez,578 830,15
+11,04,11,Veracruz,71 826,"3,7","3,7",8 062 579,113,Xalapa,443 063,18
+12,14,20,Baja California,71 450,"3,6","3,6",3 769 020,46,Mexicali,854 186,11
+13,08,14,Nuevo León,64 156,"3,3","3,3",5 784 442,80,Monterrey,1 142 952,04
+14,12,17,Guerrero,63 596,"3,2","3,2",3 540 685,56,Chilpancingo de los Bravo,225 728,27
+15,19,21,San Luis Potosí,61 137,"3,1","3,1",2 822 255,44,San Luis Potosí,845 941,07
+16,09,15,Michoacán,58 599,"3,0","3,0",4 748 846,78,Morelia,743 275,14
+17,16,19,Sinaloa,58 200,"2,9","2,9",3 026 943,52,Culiacán Rosales,808 416,12
+18,30,28,Campeche,57 507,"2,9","2,9",928 363,16,San Francisco de Campeche,249 623,25
+19,26,25,Quintana Roo,44 705,"2,3","2,3",1 857 985,34,Chetumal,169 028,29
+20,21,18,Yucatán,39 524,"2,0","2,0",2 320 898,53,Mérida,921 771,06
+21,05,07,Puebla,34 306,"1,7","1,7",6 583 278,180,Puebla de Zaragoza,1 542 232,03
+22,06,06,Guanajuato,30 608,"1,6","1,6",6 166 934,191,Guanajuato,184 239,28
+23,29,24,Nayarit,27 857,"1,4","1,4",1 235 456,42,Tepic,371 387,21
+24,20,13,Tabasco,24 731,"1,3","1,3",2 402 598,97,Villahermosa,340 060,19
+25,01,02,Estado de México,22 351,"1,1","1,1",16 992 418,724,Toluca de Lerdo,910 608,17
+26,17,09,Hidalgo,20 813,"1,1","1,1",3 082 841,137,Pachuca de Soto,297 848,23
+27,22,08,Querétaro,11 699,"0,6","0,6",2 368 467,174,Santiago de Querétaro,794 789,13
+28,32,10,Colima,5627,"0,3","0,3",731 391,126,Colima,146 965,30
+29,27,05,Aguascalientes,5616,"0,3","0,3",1 425 607,234,Aguascalientes,863 893,08
+30,23,03,Morelos,4879,"0,2","0,2",1 971 520,390,Cuernavaca,341 029,20
+31,28,04,Tlaxcala,4016,"0,2","0,2",1 342 977,318,Tlaxcala de Xicohténcatl,99 896,32
+32,02,01,Ciudad de México,1495,"0,1","0,1",9 209 944,5966,N/A,9 209 944,01
