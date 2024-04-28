@@ -3,7 +3,7 @@
 Version 1 
 
 This repository allow to dowload information from wikipedia. 
-The main pages to starct data are:
+The main pages to stract data for this code are:
 
  Site Estado de los Estados Unidos - [link]('https://es.wikipedia.org/wiki/Estado_de_los_Estados_Unidos')
 
